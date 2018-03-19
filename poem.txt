@@ -1,1 +1,8 @@
-i like research
+$ git stash show -p
+diff --git a/hello.txt b/hello.txt
+index e965047..802992c 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -1 +1 @@
+-Hello
++Hello world
