@@ -10,3 +10,6 @@ yes
 sir
 yes
 sir
+three
+bags
+full
